@@ -6,7 +6,7 @@ A collection of scripts to clean up after Puppet.
 
 License
 -------
-Copyright (c) 2012 Jason Hancock<jsnbyh@gmail.com>
+Copyright (c) 2012 Jason Hancock <jsnbyh@gmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
